@@ -37,11 +37,11 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60px" alt="React">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://icons8.com/icon/2ZOaTclOqD4q/express-js" width="60px" alt="Express.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="60px" alt="Express.js">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" width="60px" alt="Laravel">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" width="60px" alt="TailwindCSS">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="60px" alt="TailwindCSS">
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Databases -->
@@ -57,7 +57,7 @@
   <!-- Cloud Services -->
   </br>
   <h3>Cloud Services</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60px" alt="AWS">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60px" alt="AWS">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60px" alt="Azure">
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -69,7 +69,7 @@
   <!-- AWS Services -->
   </br>
   <h3>AWS Services</h3>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" width="60px" alt="AWS EC2"> EC2
+  <img src="https://www.svgrepo.com/svg/353449/aws-ec2" width="60px" alt="AWS EC2"> EC2
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/badges/shields/master/logo/aws.svg" width="60px" alt="AWS S3"> S3
   &nbsp;&nbsp;&nbsp;&nbsp;
