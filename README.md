@@ -41,7 +41,7 @@
   <!-- Tools -->
   <h3>Tools</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=xd,ps,ai,id,hostinger,namecheap,figma,linkedin,notion,trello&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=xd,ps,ai,id,hostinger,namecheap,figma,linkedin,notion,trello,docker,dotnet,git,linux,npm,nodejs,powershell&theme=dark&perline=8" />
   </a>
 </div>
 
