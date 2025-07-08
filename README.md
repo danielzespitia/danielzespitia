@@ -34,9 +34,17 @@
 
   <!-- AWS Services -->
   <h3>AWS Services</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ec2,route53,s3,glacier,iam,vps&theme=dark&perline=6" />
-  </a>
+  <div align="center">
+    <img src="https://www.svgrepo.com/show/353449/aws-ec2.svg" width="60px" alt="EC2">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://www.svgrepo.com/show/303446/aws-s3-logo.svg" width="60px" alt="S3">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://images.seeklogo.com/logo-png/45/1/amazon-s3-simple-storage-service-logo-png_seeklogo-456304.png" width="60px" alt="S3 Glacier">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://www.svgrepo.com/show/353454/aws-iam.svg" width="60px" alt="IAM">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://www.svgrepo.com/show/353459/aws-route53.svg" width="60px" alt="Route 53">
+  </div>
 
   <!-- Tools -->
   <h3>Tools</h3>
