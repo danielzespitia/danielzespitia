@@ -9,80 +9,28 @@
   <h1>Stack</h1>
   
   <!-- Languages -->
-  </br>
   <h3>Languages</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60px" alt="Python">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px" alt="Javascript">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60px" alt="Typescript">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60px" alt="HTML5">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60px" alt="CSS3">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="60px" alt="PHP">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="60px" alt="C++">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60px" alt="C#">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,cpp,cs&theme=light&perline=8" />
+  </a>
+  
   <!-- Frameworks -->
-  </br>
   <h3>Frameworks</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="60px" alt="Django">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="60px" alt="Angular">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60px" alt="React">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="60px" alt="Express.js">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" width="60px" alt="Laravel">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="60px" alt="TailwindCSS">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,angular,react,express,laravel,tailwind&theme=light&perline=6" />
+  </a>
+  
   <!-- Databases -->
-  </br>
   <h3>Databases</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60px" alt="MySQL">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="60px" alt="PostgreSQL">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="60px" alt="Oracle">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle&theme=light&perline=3" />
+  </a>
+  
   <!-- Cloud Services -->
-  </br>
   <h3>Cloud Services</h3>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60px" alt="AWS">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60px" alt="Azure">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60px" alt="Google Cloud Platform">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="60px" alt="Digital Ocean">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- AWS Services -->
-  </br>
-  <h3>AWS Services</h3>
-  <img src="https://www.svgrepo.com/svg/353449/aws-ec2" width="60px" alt="AWS EC2"> EC2
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/badges/shields/master/logo/aws.svg" width="60px" alt="AWS S3"> S3
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/aws-samples/aws-glacier-sample/master/images/glacier.png" width="60px" alt="AWS S3 Glacier"> S3 Glacier
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/aws-samples/aws-route53-sample/master/images/route53.png" width="60px" alt="AWS Route53"> Route53
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/aws-samples/aws-certificate-manager-sample/master/images/certificate-manager.png" width="60px" alt="AWS Certificate Manager"> Certificate Manager
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/aws/amazon-vpc-cni-k8s/master/images/vpc.png" width="60px" alt="AWS VPS"> VPS
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/aws-samples/aws-iam-sample/master/images/iam.png" width="60px" alt="AWS IAM"> IAM
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,digitalocean&theme=light&perline=4" />
+  </a>
 </div>
 
 </br>
