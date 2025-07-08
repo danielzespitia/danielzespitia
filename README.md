@@ -41,7 +41,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" width="60px" alt="Laravel">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" width="60px" alt="TailwindCSS">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="60px" alt="TailwindCSS">
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Databases -->
