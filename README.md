@@ -11,25 +11,25 @@
   <!-- Languages -->
   <h3>Languages</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,cpp,cs&theme=light&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,cpp,cs&theme=dark&perline=8" />
   </a>
   
   <!-- Frameworks -->
   <h3>Frameworks</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,angular,react,express,laravel,tailwind&theme=light&perline=6" />
+    <img src="https://skillicons.dev/icons?i=django,angular,react,express,laravel,tailwind&theme=dark&perline=6" />
   </a>
   
   <!-- Databases -->
   <h3>Databases</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle&theme=light&perline=3" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle&theme=dark&perline=3" />
   </a>
   
   <!-- Cloud Services -->
   <h3>Cloud Services</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,digitalocean&theme=light&perline=4" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,digitalocean&theme=dark&perline=4" />
   </a>
 </div>
 
