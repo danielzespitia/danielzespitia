@@ -31,6 +31,18 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,gcp,digitalocean&theme=dark&perline=4" />
   </a>
+
+  <!-- AWS Services -->
+  <h3>AWS Services</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ec2,route53,s3,glacier,iam,vps&theme=dark&perline=6" />
+  </a>
+
+  <!-- Tools -->
+  <h3>Tools</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=xd,ps,ai,id,hostinger,namecheap,figma,linkedin,notion,trello&theme=dark&perline=6" />
+  </a>
 </div>
 
 </br>
