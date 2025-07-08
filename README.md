@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Daniel%20Espitia%20&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  <img src="https://capsule-render.vercel.app/api?color=cc33ff&height=250&section=header&text=Edvardas%20Jusius%20(Dum6o)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
   alt="header"/>
 </div>
 
@@ -73,47 +73,47 @@
 
   </br>
 
-  <img
+<img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
     width="60px"
     alt="NodeJS">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"
     width="60px"
     alt="npm">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"
     width="60px"
     alt="Angular">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
     width="60px"
     alt="React">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg"
     width="60px"
     alt="Bootstrap">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
     width="60px"
     alt="Jasmine">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-plain-wordmark.svg"
     width="60px"
     alt="Jasmine">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karma/karma-original.svg"
     width="60px"
     alt="Karma">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  
+&nbsp;&nbsp;&nbsp;&nbsp;
+
   <!-- Storages -->
   </br>
   <h3>Storages</h3>
@@ -243,13 +243,14 @@
 
   </br>
 
-  <img
+<img
     src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Dum6o/&title=Profile%20Views"
     alt="Profile Views">
+
 </div>
 
 <!-- FOOTER -->
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+  <img src="https://capsule-render.vercel.app/api?color=cc33ff&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
   alt="footer" />
 </div>
