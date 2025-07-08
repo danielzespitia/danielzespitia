@@ -57,31 +57,31 @@
   <!-- Cloud Services -->
   </br>
   <h3>Cloud Services</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60px" alt="AWS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60px" alt="AWS">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" width="60px" alt="Azure">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60px" alt="Azure">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" width="60px" alt="Google Cloud Platform">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60px" alt="Google Cloud Platform">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original-wordmark.svg" width="60px" alt="Digital Ocean">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="60px" alt="Digital Ocean">
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- AWS Services -->
   </br>
   <h3>AWS Services</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="60px" alt="AWS EC2"> EC2
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" width="60px" alt="AWS EC2"> EC2
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="60px" alt="AWS S3"> S3
+  <img src="https://raw.githubusercontent.com/badges/shields/master/logo/aws.svg" width="60px" alt="AWS S3"> S3
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="60px" alt="AWS S3 Glacier"> S3 Glacier
+  <img src="https://raw.githubusercontent.com/aws-samples/aws-glacier-sample/master/images/glacier.png" width="60px" alt="AWS S3 Glacier"> S3 Glacier
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="60px" alt="AWS Route53"> Route53
+  <img src="https://raw.githubusercontent.com/aws-samples/aws-route53-sample/master/images/route53.png" width="60px" alt="AWS Route53"> Route53
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="60px" alt="AWS Certificate Manager"> Certificate Manager
+  <img src="https://raw.githubusercontent.com/aws-samples/aws-certificate-manager-sample/master/images/certificate-manager.png" width="60px" alt="AWS Certificate Manager"> Certificate Manager
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="60px" alt="AWS VPS"> VPS
+  <img src="https://raw.githubusercontent.com/aws/amazon-vpc-cni-k8s/master/images/vpc.png" width="60px" alt="AWS VPS"> VPS
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="60px" alt="AWS IAM"> IAM
+  <img src="https://raw.githubusercontent.com/aws-samples/aws-iam-sample/master/images/iam.png" width="60px" alt="AWS IAM"> IAM
   &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
