@@ -28,7 +28,7 @@
       <img src="https://skillicons.dev/icons?i=mysql,postgres,dynamodb&theme=dark&perline=3" />
     </a>
     <!-- Icono de MariaDB con el estilo solicitado -->
-    <img src="mariadb-svgrepo-com.svg" alt="MariaDB" style="background-color: #242938; border-radius: 10px; width: 48px; height: 42px; padding: 4px;" />
+    <img src="mariadb-svgrepo-com.svg" border-radius: 10px; width: 48px; height: 42px; padding: 4px; alt="MariaDB" />
   </div>
   
   <!-- Cloud Services -->
