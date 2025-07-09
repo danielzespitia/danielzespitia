@@ -28,7 +28,7 @@
       <img src="https://skillicons.dev/icons?i=mysql,postgres,dynamodb&theme=dark&perline=3" />
     </a>
     <!-- Icono de MariaDB con el estilo solicitado -->
-    <img src="mariadb-dark.svg" width="50px" alt="EC2">
+    <img src="icons/mariadb-dark.svg" width="50px" alt="EC2">
     &nbsp;&nbsp;&nbsp;&nbsp;
   </div>
   
