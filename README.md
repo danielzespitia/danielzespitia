@@ -11,7 +11,7 @@
   <!-- Languages -->
   <h3>Languages</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,cpp,cs&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,cpp,cs,fortran&theme=dark&perline=9" />
   </a>
   
   <!-- Frameworks -->
@@ -22,9 +22,14 @@
   
   <!-- Databases -->
   <h3>Databases</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle&theme=dark&perline=3" />
-  </a>
+  <!-- Contenedor para alinear los logos de bases de datos -->
+  <div style="display: inline-flex; align-items: center; justify-content: center; gap: 8px; flex-wrap: wrap;">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,dynamodb&theme=dark&perline=3" />
+    </a>
+    <!-- Icono de MariaDB con el estilo solicitado -->
+    <img src="mariadb-svgrepo-com.svg" alt="MariaDB" style="background-color: #242938; border-radius: 10px; width: 48px; height: 42px; padding: 4px;" />
+  </div>
   
   <!-- Cloud Services -->
   <h3>Cloud Services</h3>
@@ -39,7 +44,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://www.svgrepo.com/show/303446/aws-s3-logo.svg" width="60px" alt="S3">
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://images.seeklogo.com/logo-png/45/1/amazon-s3-simple-storage-service-logo-png_seeklogo-456304.png" width="60px" alt="S3 Glacier">
+    <img src="https://media.licdn.com/dms/image/v2/D4D12AQG7k6H-AncAqQ/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1678437995107?e=1757548800&v=beta&t=lvWRzYHZicPZ-HEqNNpRuWz9lsRzV0RtVchNNVPu2Ss" border-radius="10px" width="60px" alt="S3 Glacier">
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://www.svgrepo.com/show/353454/aws-iam.svg" width="60px" alt="IAM">
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -51,6 +56,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=xd,ps,ai,id,hostinger,namecheap,figma,linkedin,notion,trello,docker,dotnet,git,linux,npm,nodejs,powershell&theme=dark&perline=8" />
   </a>
+  <img src="https://mywebshosting.com/wp-content/uploads/2020/11/Hostinger-hosting-1.jpg" width="60px" alt="Hostinger>
 </div>
 
 </br>
