@@ -28,7 +28,6 @@
     </a>
     <img src="icons/mariadb-dark.svg" width="50px" alt="Maria DB">
     <img src="icons/oracle-dark.svg" width="50px" alt="Oracle">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   </div>
   
   <!-- Cloud Services -->
@@ -55,8 +54,8 @@
   <!-- Web Desing -->
   <h3>Web Desing</h3>
   <div style="display: inline-flex; align-items: center; justify-content: center; gap: 8px; flex-wrap: wrap;">
-  <img src="https://skillicons.dev/icons?i=xd,ps,ai,figma,wordpress,vscode,linux&theme=dark&perline=7" />
-  <img src="icons/Hostinger-Dark.svg" width="60px" alt="Route 53">
+    <img src="https://skillicons.dev/icons?i=xd,ps,ai,figma,wordpress,vscode,linux&theme=dark&perline=7" />
+    <img src="icons/Hostinger-Dark.svg" width="60px" alt="Route 53">
   </div>
 
   <!-- Tools -->
