@@ -22,34 +22,41 @@
   
   <!-- Databases -->
   <h3>Databases</h3>
-  <!-- Contenedor para alinear los logos de bases de datos -->
   <div style="display: inline-flex; align-items: center; justify-content: center; gap: 8px; flex-wrap: wrap;">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=mysql,postgres,dynamodb&theme=dark&perline=3" />
     </a>
-    <!-- Icono de MariaDB con el estilo solicitado -->
-    <img src="icons/mariadb-dark.svg" width="50px" alt="EC2">
+    <img src="icons/mariadb-dark.svg" width="50px" alt="Maria DB">
+    <img src="icons/oracle-dark.svg" width="50px" alt="Oracle">
     &nbsp;&nbsp;&nbsp;&nbsp;
   </div>
   
   <!-- Cloud Services -->
   <h3>Cloud Services</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,digitalocean&theme=dark&perline=4" />
-  </a>
+  <div style="display: inline-flex; align-items: center; justify-content: center; gap: 8px; flex-wrap: wrap;">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark&perline=3" />
+    </a>
+    <img src="icons/Digital-Ocean-Dark.svg" width="50px" alt="Digital-Ocean">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  </div>
+  
 
   <!-- AWS Services -->
   <h3>AWS Services</h3>
-  <div align="center">
-    <img src="https://www.svgrepo.com/show/353449/aws-ec2.svg" width="60px" alt="EC2">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://www.svgrepo.com/show/303446/aws-s3-logo.svg" width="60px" alt="S3">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://media.licdn.com/dms/image/v2/D4D12AQG7k6H-AncAqQ/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1678437995107?e=1757548800&v=beta&t=lvWRzYHZicPZ-HEqNNpRuWz9lsRzV0RtVchNNVPu2Ss" border-radius="10px" width="60px" alt="S3 Glacier">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://www.svgrepo.com/show/353454/aws-iam.svg" width="60px" alt="IAM">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://www.svgrepo.com/show/353459/aws-route53.svg" width="60px" alt="Route 53">
+  <div style="display: inline-flex; align-items: center; justify-content: center; gap: 8px; flex-wrap: wrap;">
+    <img src="icons/AWS-EC2-Dark.svg" width="60px" alt="EC2">
+    <img src="icons/AWS-S3-Dark.svg" width="60px" alt="S3">
+    <img src="icons/AWS-S3-Glaciar-Dark.svg" width="60px" alt="S3 Glacier">
+    <img src="icons/AWS-Router53-Dark.svg" width="60px" alt="Router 53">
+    <img src="icons/AWS-IAM-Dark.sVg" width="60px" alt="Route 53">
+  </div>
+
+  <!-- Web Desing -->
+  <h3>Web Desing</h3>
+  <div style="display: inline-flex; align-items: center; justify-content: center; gap: 8px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=xd,ps,ai,figma,wordpress,vscode,linux&theme=dark&perline=7" />
+  <img src="icons/Hostinger-Dark.svg" width="60px" alt="Route 53">
   </div>
 
   <!-- Tools -->
