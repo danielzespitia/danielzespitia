@@ -48,7 +48,7 @@
     <img src="icons/AWS-S3-Dark.svg" width="55px" alt="S3">
     <img src="icons/AWS-S3-Glaciar-Dark.svg" width="55px" alt="S3 Glacier">
     <img src="icons/AWS-Router53-Dark.svg" width="55px" alt="Router 53">
-    <img src="icons/AWS-IAM-Dark.sVg" width="55px" alt="IAM">
+    <img src="icons/AWS-IAM-Dark.svg" width="55px" alt="IAM">
   </div>
 
   <!-- Web Desing -->
