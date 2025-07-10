@@ -44,18 +44,18 @@
   <!-- AWS Services -->
   <h3>AWS Services</h3>
   <div style="display: inline-flex; align-items: center; justify-content: center; gap: 8px; flex-wrap: wrap;">
-    <img src="icons/AWS-EC2-Dark.svg" width="60px" alt="EC2">
-    <img src="icons/AWS-S3-Dark.svg" width="60px" alt="S3">
-    <img src="icons/AWS-S3-Glaciar-Dark.svg" width="60px" alt="S3 Glacier">
-    <img src="icons/AWS-Router53-Dark.svg" width="60px" alt="Router 53">
-    <img src="icons/AWS-IAM-Dark.sVg" width="60px" alt="Route 53">
+    <img src="icons/AWS-EC2-Dark.svg" width="55px" alt="EC2">
+    <img src="icons/AWS-S3-Dark.svg" width="55px" alt="S3">
+    <img src="icons/AWS-S3-Glaciar-Dark.svg" width="55px" alt="S3 Glacier">
+    <img src="icons/AWS-Router53-Dark.svg" width="55px" alt="Router 53">
+    <img src="icons/AWS-IAM-Dark.sVg" width="55px" alt="IAM">
   </div>
 
   <!-- Web Desing -->
   <h3>Web Desing</h3>
   <div style="display: inline-flex; align-items: center; justify-content: center; gap: 8px; flex-wrap: wrap;">
     <img src="https://skillicons.dev/icons?i=xd,ps,ai,figma,wordpress,vscode,linux&theme=dark&perline=7" />
-    <img src="icons/Hostinger-Dark.svg" width="60px" alt="Route 53">
+    <img src="icons/Hostinger-Dark.svg" width="50px" alt="Route 53">
   </div>
 
   <!-- Tools -->
@@ -63,7 +63,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=xd,ps,ai,id,hostinger,namecheap,figma,linkedin,notion,trello,docker,dotnet,git,linux,npm,nodejs,powershell&theme=dark&perline=8" />
   </a>
-  <img src="https://mywebshosting.com/wp-content/uploads/2020/11/Hostinger-hosting-1.jpg" width="60px" alt="Hostinger>
+  <img src="https://mywebshosting.com/wp-content/uploads/2020/11/Hostinger-hosting-1.jpg" width="60px" alt="Hostinger">
 </div>
 
 </br>
