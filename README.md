@@ -27,7 +27,7 @@
       <img src="https://skillicons.dev/icons?i=mysql,postgres,dynamodb&theme=dark&perline=3" />
     </a>
     <img src="icons/mariadb-dark.svg" width="50px" alt="Maria DB">
-    <img src="icons/oracle-dark.svg" width="50px" alt="Oracle">
+    <img src="icons/Oracle-Dark.svg" width="50px" alt="Oracle">
   </div>
   
   <!-- Cloud Services -->
