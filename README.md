@@ -24,7 +24,7 @@
   <h3>Databases</h3>
   <div style="display: inline-flex; align-items: center; justify-content: center; gap: 8px; flex-wrap: wrap;">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,dynamodb&theme=dark&perline=3" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,dynamodb,mongodb&theme=dark&perline=4" />
     </a>
     <img src="icons/mariadb-dark.svg" width="50px" alt="Maria DB">
     <img src="icons/Oracle-Dark.svg" width="50px" alt="Oracle">
@@ -49,6 +49,7 @@
     <img src="icons/AWS-S3-Glaciar-Dark.svg" width="55px" alt="S3 Glacier">
     <img src="icons/AWS-Router53-Dark.svg" width="55px" alt="Router 53">
     <img src="icons/AWS-IAM-Dark.svg" width="55px" alt="IAM">
+    <img src="icons/DynamoDB-Dark.svg" width="55px" alt="Dynamo DB">
   </div>
 
   <!-- Web Desing -->
@@ -60,10 +61,8 @@
 
   <!-- Tools -->
   <h3>Tools</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=xd,ps,ai,id,hostinger,namecheap,figma,linkedin,notion,trello,docker,dotnet,git,linux,npm,nodejs,powershell&theme=dark&perline=8" />
-  </a>
-  <img src="https://mywebshosting.com/wp-content/uploads/2020/11/Hostinger-hosting-1.jpg" width="60px" alt="Hostinger">
+  <img src="https://skillicons.dev/icons?i=git,gitlab,github,npm,pnpm,nodejs,dotnet,visualstudio,pr,ae,cloudflare,linkedin,notion,docker,dotnet,powershell&theme=dark&perline=8" />
+ 
 </div>
 
 </br>
